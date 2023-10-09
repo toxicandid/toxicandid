@@ -1,4 +1,4 @@
-![logo] (https://github.com/toxicandid/toxicandid/blob/main/github-header-image.png)
+![Logo](https://github.com/toxicandid/toxicandid/raw/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rohit Shinde</h1>
 <h3 align="center">📈 Trading Enthusiast | 💰 Investment Aficionado | 🔒 Cybersecurity Enthusiast 🖥️</h3>
 
